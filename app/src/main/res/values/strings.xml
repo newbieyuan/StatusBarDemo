@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StatusBarDemo</string>
+    <string name="image_translucent_bar">image_translucent_bar</string>
+</resources>
